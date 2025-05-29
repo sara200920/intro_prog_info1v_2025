@@ -1,0 +1,7 @@
+Escreva um algoritmo que leia dois números inteiros 'a'e'b',calcule a diferença deles e mostre o resultado.
+Escreva um algoritmo que leia doi números inteiros 'a'e'b',calcule o produto deles e mostre o resultado.
+Escreva um algoritmo que leia dois numeros inteiros 'a'e'b',calcule o quociente entra eles e mostre o resultado.
+
+Ler [a] e [b] subtraia [a] e [b] expor
+Ler['a] e ['b'],multiplique [a]e[b] expor
+Ler [a]e[b] divida [a] e [b] expor
